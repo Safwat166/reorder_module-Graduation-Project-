@@ -1,2 +1,2 @@
-# reorder_module-Graduation-Project-
+# reorder_module
 Schedule input activations to PE Array
